@@ -1,0 +1,984 @@
+[
+  {
+    "CTId": 6,
+    "CTName": "Chấp hành pháp luật và nội quy, quy chế của nhà trường",
+    "CTPoint": 6.0,
+    "TCTPoint": 0.0,
+    "CTMaxPoint": 25.0,
+    "CriteriaGroupDetailsLst": [
+      {
+        "CGId": 17,
+        "CGName": "Chấp hành các quy định của pháp luật đối với công dân",
+        "CGPoint": 6.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 15.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 6924257,
+            "CId": 114,
+            "CName": "Hiểu biết và chấp hành pháp luật của Nhà nước, quy định của nhà trường và nơi cư trú",
+            "UCDes": "",
+            "UCPoint": 6.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": [
+              {
+                "UCAId": 34401037,
+                "AId": 15931,
+                "AName": "Cuộc thi tìm hiểu pháp luật kỳ 2026.1",
+                "CreateUser": "student",
+                "CreateDate": "2026-10-28 17:01:45",
+                "StartTime": "2026-10-05 08:00:00",
+                "FinishTime": "2026-10-14 17:00:00",
+                "UCAStatus": 1
+              }
+            ]
+          },
+          {
+            "UCId": 0,
+            "CId": 115,
+            "CName": "Tham gia Sinh hoạt công dân do nhà trường tổ chức",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 116,
+            "CName": "Khai báo thông tin liên lạc và nơi cư trú theo yêu cầu của Đại học",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 18,
+        "CGName": "Chấp hành nội quy, quy chế và các quy định của Đại học",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 15.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 117,
+            "CName": "Tham gia Họp lớp thường kỳ do Trường/Khoa tổ chức",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 118,
+            "CName": "Nắm vững quy định và quy chế của nhà trường",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 119,
+            "CName": "Hoàn thành mục tiêu cam kết học tập và rèn luyện (Kết quả GPA và điểm rèn luyện cuối kỳ đạt từ mức đăng ký đầu kỳ trở lên)",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CTId": 7,
+    "CTName": "Trách nhiệm, tinh thần và thái độ trong học tập",
+    "CTPoint": 0.0,
+    "TCTPoint": 0.0,
+    "CTMaxPoint": 20.0,
+    "CriteriaGroupDetailsLst": [
+      {
+        "CGId": 19,
+        "CGName": "Trách nhiệm và thái độ tham gia các hoạt động học tập",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 15.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 120,
+            "CName": "Có kế hoạch học tập và rèn luyện phù hợp được thầy cô ghi nhận",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 121,
+            "CName": "Tham gia hoạt động, sự kiện liên quan đến NCKH, học thuật, chuyên môn",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 122,
+            "CName": "Tham gia các buổi tư vấn xây dựng kế hoạch, động lực học tập phù hợp",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 123,
+            "CName": "Tham gia hoạt động hướng nghiệp, tìm kiếm thông tin việc làm",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 124,
+            "CName": "Tham gia khóa đào tạo kỹ năng nghề nghiệp, kỹ năng bổ trợ chuyên môn",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 125,
+            "CName": "Chủ động xây dựng, hoàn thiện và cập nhật Portfolio cá nhân theo từng học kỳ.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 20,
+        "CGName": "Trách nhiệm và tinh thần tham gia các kỳ thi, cuộc thi",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 12.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 126,
+            "CName": "Tham gia công bố khoa học tại Hội nghị hoặc tạp chí khoa học chuyên ngành",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 127,
+            "CName": "Tham gia các cuộc thi Olympic cấp Đại học, cấp quốc gia, quốc tế",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 128,
+            "CName": "Thành viên CLB học thuật, Lab nghiên cứu, nhóm nghiên cứu, nhóm khởi nghiệp",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 21,
+        "CGName": "Tinh thần vượt khó, phấn đấu vươn lên trong học tập",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 8.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 129,
+            "CName": "Có nỗ lực trong học tập (GPA kỳ đánh giá cao hơn kỳ trước, giảm mức cảnh báo học tập, hoặc duy trì điểm GPA trên 3.2).",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 0,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 130,
+            "CName": "Tham gia các hoạt động tăng cường kỹ năng sử dụng ngoại ngữ được nhà trường ghi nhận",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 131,
+            "CName": "Có chứng chỉ ngoại ngữ quốc tế hoặc tương đương đạt mức TOEIC 600 điểm trở lên (còn hạn)",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 132,
+            "CName": "Được doanh nghiệp tuyển dụng là thực tập sinh và có thời gian thực tập hơn 30 ngày",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CTId": 8,
+    "CTName": "Trách nhiệm tham gia hoạt động chính trị - xã hội, văn hoá, văn nghệ, thể thao, phòng chống tội phạm, tệ nạn xã hội",
+    "CTPoint": 16.0,
+    "TCTPoint": 0.0,
+    "CTMaxPoint": 20.0,
+    "CriteriaGroupDetailsLst": [
+      {
+        "CGId": 22,
+        "CGName": "Trách nhiệm và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, văn nghệ, thể thao",
+        "CGPoint": 7.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 15.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 133,
+            "CName": "Tham gia sự kiện chính trị - xã hội (các Đại hội, Hội nghị, cuộc họp của tổ chức Đảng, Đoàn - Hội từ cấp Chi bộ, Chi đoàn, Chi hội trở lên... và các chương trình mang tính chính trị - xã hội khác).",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 6924258,
+            "CId": 134,
+            "CName": "Tham gia cổ vũ các hoạt động phong trào văn hóa, thể thao",
+            "UCDes": "",
+            "UCPoint": 3.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": [
+              {
+                "UCAId": 34401038,
+                "AId": 15927,
+                "AName": "Tham gia Lễ Khai mạc Hội thao Cán bộ, Sinh viên, Cựu sinh viên Bách khoa năm 2026 ",
+                "CreateUser": "student",
+                "CreateDate": "2026-10-28 17:01:45",
+                "StartTime": "2026-10-02 07:15:00",
+                "FinishTime": "2026-10-02 10:00:00",
+                "UCAStatus": 1
+              }
+            ]
+          },
+          {
+            "UCId": 6924259,
+            "CId": 135,
+            "CName": "Tham gia các hoạt động thể dục nâng cao sức khỏe được tổ chức bởi các đơn vị hợp pháp",
+            "UCDes": "",
+            "UCPoint": 4.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": [
+              {
+                "UCAId": 34401039,
+                "AId": 15892,
+                "AName": "Tham gia Giải chạy trong khuôn khổ chuỗi sự kiện Chào tân 2026",
+                "CreateUser": "student",
+                "CreateDate": "2026-10-28 17:01:45",
+                "StartTime": "2026-09-26 05:00:00",
+                "FinishTime": "2026-09-26 08:00:00",
+                "UCAStatus": 1
+              }
+            ]
+          },
+          {
+            "UCId": 0,
+            "CId": 136,
+            "CName": "Tham gia các cuộc thi văn hóa, văn nghệ do các tổ chức, đơn vị hợp pháp tổ chức (hát, múa, nhảy, nhạc cụ, hội họa...).",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 137,
+            "CName": "Tham gia các giải thể thao do các tổ chức, đơn vị hợp pháp tổ chức (các môn thể thao chính thức như: chạy, bóng đá, cờ vua, bóng chuyền...).",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 138,
+            "CName": "Tham gia các khóa đào tạo kỹ năng mềm do các đơn vị được Nhà trường công nhận tổ chức.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 139,
+            "CName": "Thành viên CLB/Tổ/Đội/Nhóm SV hợp pháp, hoạt động về văn nghệ, thể thao, tình nguyện, sở thích",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 23,
+        "CGName": "Tham gia các hoạt động công ích, tình nguyện, công tác xã hội",
+        "CGPoint": 9.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 12.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 140,
+            "CName": "Tham gia hoạt động khảo sát thông tin do Đại học thực hiện",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 141,
+            "CName": "Tham gia các hoạt động tình nguyện (hỗ trợ địa phương, bảo đảm an toàn giao thông khu vực cổng trường, hỗ trợ tổ chức các chương trình và sự kiện của Đại học/Trường/Khoa).",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 142,
+            "CName": "Tham gia phong trào \"cốc trà đá vì cộng đồng\", \"tuổi trẻ Bách khoa Nhân ái\"",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 143,
+            "CName": "Tham gia hiến máu nhân đạo do Đại học và các tổ chức hợp pháp phát động, tổ chức",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 6924260,
+            "CId": 144,
+            "CName": "Tham gia các hoạt động phổ biến, tìm hiểu bản sắc văn hóa dân tộc, văn hóa địa phương, văn hóa trường học,…",
+            "UCDes": "",
+            "UCPoint": 3.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": [
+              {
+                "UCAId": 34401040,
+                "AId": 15913,
+                "AName": "Sinh viên tham gia ngày hội Hust Club Day và Chào tân sinh viên K71",
+                "CreateUser": "student",
+                "CreateDate": "2026-10-28 17:01:45",
+                "StartTime": "2026-09-26 07:00:00",
+                "FinishTime": "2026-09-26 18:00:00",
+                "UCAStatus": 1
+              }
+            ]
+          },
+          {
+            "UCId": 6924261,
+            "CId": 145,
+            "CName": "Tham gia các đội hình hoặc chiến dịch tình nguyện trong và ngoài Nhà trường (Mùa hè xanh, Tình nguyện mùa đông, Tiếp sức mùa thi, Tư vấn viên đồng đẳng...)",
+            "UCDes": "",
+            "UCPoint": 6.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": [
+              {
+                "UCAId": 34401041,
+                "AId": 15873,
+                "AName": "Tham gia đội tình nguyện hỗ trợ hoạt động nhập học K71",
+                "CreateUser": "student",
+                "CreateDate": "2026-10-28 17:01:45",
+                "StartTime": "2026-08-25 07:00:00",
+                "FinishTime": "2026-08-28 17:00:00",
+                "UCAStatus": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "CGId": 24,
+        "CGName": "Tham gia tuyên truyền, phòng chống tội phạm và tệ nạn xã hội",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 6.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 146,
+            "CName": "Tham gia bảo vệ cảnh quan, môi trường, nếp sống văn minh nơi công cộng.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 147,
+            "CName": "Tham gia các hoạt động đảm bảo an ninh, trật tự và an toàn trường học.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 148,
+            "CName": "Tham gia các diễn đàn sinh viên, các buổi toạ đàm xây dựng quy định, quy chế và pháp luật",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CTId": 9,
+    "CTName": "Điểm ý thức công dân trong quan hệ cộng đồng",
+    "CTPoint": 0.0,
+    "TCTPoint": 0.0,
+    "CTMaxPoint": 15.0,
+    "CriteriaGroupDetailsLst": [
+      {
+        "CGId": 25,
+        "CGName": "Tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 12.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 149,
+            "CName": "Có hành động tích cực trên không gian mạng, phù hợp với chủ trương của Đại học và đường lối, chính sách của Nhà nước.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 150,
+            "CName": "Tham gia tuyên truyền đường lối của Đảng, pháp luật của Nhà nước, quy định của nơi cư trú hoặc quy chế của Đại học được các cấp có thẩm quyền xác nhận.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 151,
+            "CName": "Tham gia các hoạt động phổ biến chủ chương của Đảng, chính sách, pháp luật của Nhà nước",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 152,
+            "CName": "Tham gia các cuộc thi tìm hiểu lịch sử, văn hóa, truyền thống dân tộc",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 153,
+            "CName": "Góp phần xây dựng tốt hình ảnh sinh viên Bách khoa với các cơ quan, tổ chức hay doanh nghiệp được Đại học ghi nhận",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 26,
+        "CGName": "Trách nhiệm tham gia các hoạt động xã hội được ghi nhận, biểu dương khen thưởng",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 12.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 154,
+            "CName": "Được giấy khen, bằng khen của tổ chức Đoàn, Hội, Đại học hoặc chính quyền địa phương",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 155,
+            "CName": "Đạt loại Khá trở lên khi tham gia học \"Lớp bồi dưỡng nhận thức về Đảng\".",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 156,
+            "CName": "Được kết nạp Đảng hoặc được chuyển Đảng chính thức.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 157,
+            "CName": "Được cơ quan, công ty hoặc tổ chức hợp pháp nơi thực tập đánh giá hoàn thành tốt nhiệm vụ trở lên",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CTId": 10,
+    "CTName": "Trách nhiệm và kết quả tham gia công tác cán bộ lớp, công tác đoàn thể, các tổ chức khác của nhà trường hoặc có thành tích xuất sắc trong học tập và rèn luyện được cơ quan có thẩm quyền khen thưởng",
+    "CTPoint": 4.0,
+    "TCTPoint": 0.0,
+    "CTMaxPoint": 20.0,
+    "CriteriaGroupDetailsLst": [
+      {
+        "CGId": 27,
+        "CGName": "Tham gia công tác cán bộ tại Lớp, tổ chức Đoàn - Hội, Tổ/Đội/CLB hợp pháp",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 6.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 158,
+            "CName": "Cán bộ Lớp, Chi bộ, Đoàn - Hội, Tổ/Đội/CLB, trưởng nhóm SV NCKH hoàn thành xuất sắc nhiệm vụ trong kỳ.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 159,
+            "CName": "Cán bộ Lớp, Chi bộ, Đoàn - Hội, Tổ/Đội/CLB, trưởng nhóm SV NCKH hoàn thành tốt nhiệm vụ trong kỳ.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 160,
+            "CName": "Cán bộ Lớp, Chi bộ, Đoàn - Hội, Tổ/Đội/CLB, trưởng nhóm SV NCKH hoàn thành nhiệm vụ trong kỳ.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 28,
+        "CGName": "Hỗ trợ và tham gia tích cực vào các hoạt động chung của Đại học/Trường/Khoa/Lớp",
+        "CGPoint": 0.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 10.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 161,
+            "CName": "Thành viên tích cực thuộc các Tổ/Đội/CLB, nhóm SV NCKH tham gia hỗ trợ triển khai hoạt động của Lớp, Khoa, Trường hoặc Đại học.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 162,
+            "CName": "Tham gia hỗ trợ triển khai hoạt động của Lớp, Khoa, Trường hoặc Đại học và hoàn thành tốt nhiệm vụ được giao.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 163,
+            "CName": "Tham gia hỗ trợ triển khai hoạt động của Lớp, Khoa, Trường hoặc Đại học và hoàn thành nhiệm vụ được giao.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 3.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          }
+        ]
+      },
+      {
+        "CGId": 29,
+        "CGName": "Có các thành tích trong NCKH, cuộc thi KHKT, khởi nghiệp và các hoạt động khác dành cho sinh viên được cấp có thẩm quyền khen thường",
+        "CGPoint": 4.0,
+        "TCGPoint": 0.0,
+        "CGMaxPoint": 15.0,
+        "UserCriteriaDetailsLst": [
+          {
+            "UCId": 0,
+            "CId": 164,
+            "CName": "Đạt giải trong các cuộc thi chính thức cấp Quốc gia, cấp Quốc tế.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 15.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 165,
+            "CName": "Đạt giải trong các cuộc thi chính thức cấp Thành phố, ",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 12.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 166,
+            "CName": "Đạt giải trong các cuộc thi chính thức cấp Đại học",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 10.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 167,
+            "CName": "Được khen thưởng bằng khen, huy chương tương đương cấp Bộ trở lên",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 10.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 168,
+            "CName": "Đạt thành tích trong NCKH sinh viên, cuộc thi khoa học kỹ thuật, sáng kiến cải tiến kỹ thuật khởi nghiệp do đơn vị Đại học/Trường/Khoa tổ chức",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 8.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 169,
+            "CName": "Đạt danh hiệu \"Sinh viên 5 tốt\" từ cấp Đại học trở lên",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 8.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 0,
+            "CId": 170,
+            "CName": "Có kết quả học tập và rèn luyện kỳ trước đó đạt mức xuất sắc (GPA ≥ 3.6, RL ≥ 90) trở lên.",
+            "UCDes": "",
+            "UCPoint": 0.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 6.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": []
+          },
+          {
+            "UCId": 6924262,
+            "CId": 171,
+            "CName": "Có kết quả học tập và rèn luyện kỳ trước đó đạt mức Giỏi (GPA ≥ 3.2, RL ≥ 80) trở lên.",
+            "UCDes": "",
+            "UCPoint": 4.0,
+            "TCPoint": 0.0,
+            "CMaxPoint": 4.0,
+            "AssessUser": "",
+            "Proof": 1,
+            "ProofText": 0,
+            "UserCriteriaActivityLst": [
+              {
+                "UCAId": 34401042,
+                "AId": 15941,
+                "AName": "Sinh viên đạt kết quả học tập Giỏi, rèn luyện Tốt trở lên trong học kỳ 2025.2 ",
+                "CreateUser": "student",
+                "CreateDate": "2026-10-28 17:01:45",
+                "StartTime": "2026-10-01 00:00:00",
+                "FinishTime": "2026-10-02 00:00:00",
+                "UCAStatus": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
